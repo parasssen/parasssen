@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/41cf7095746151.5e9ecde696490.gif)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/41cf7095746151.5e9ecde696490.gif)]
 
 <h1 align="center">Hi 👋, I'm Paras Sen</h1>
 <h3 align="center">A passionate frontend developer from Himachal Pradesh (India)</h3>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **UX/UI Designing**
 
-- 👨‍💻 All of my projects are available at [https://parasssen.github.io/parassen. github.io/](https://parasssen.github.io/parassen. github.io/)
+- 👨‍💻 All of my projects are available at [https://parasssen.github.io/parassen.github.io/](https://parasssen.github.io/parassen.github.io/)
 
 - 💬 Ask me about **HTML, CSS, JS, C**
 
